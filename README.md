@@ -31,4 +31,8 @@ The Random Forest Classification model achieved the following results:
 [[2872    9]
  [  30  839]]
 ```
+
+![image](https://github.com/Devansh-Gupta-Official/hr-dataset/assets/100591612/35883d8a-ebb5-4ed4-bcf8-97f6631a2077)
+
+
 - **Accuracy Score: 98.96%**
